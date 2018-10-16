@@ -27,7 +27,7 @@ The goal is to train a CNN that would be able to classify fishes into these eigh
 **Performance metrics**
 
 The metric used for this Kaggle competition is multiclass logarithmic loss (also known as
-categorical cross entropy).  
+categorical cross entropy).   
 
 In multi-class classification (M>2), we take the sum of log loss values for each class prediction in the observation.
 
